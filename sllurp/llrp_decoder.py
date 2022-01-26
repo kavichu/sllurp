@@ -29,7 +29,8 @@ tve_param_formats = {
 ext_param_formats = {
     56: ('ImpinjPhase', '!H'),
     57: ('ImpinjPeakRSSI', '!h'),
-    68: ('RFDopplerFrequency', '!h')
+    68: ('RFDopplerFrequency', '!h'),
+    709: ('MotoTagPhase', '!h')
 }
 
 nontve_header = '!H'
